@@ -6,10 +6,6 @@ This project focuses on analyzing employee attrition and workforce trends using 
 
 Using the IBM HR Analytics Employee Attrition dataset, I performed data cleaning, data transformation, exploratory data analysis, and dashboard development to generate meaningful HR insights.
 
-## Dashboard Preview
-
-![Employee Attrition Dashboard](hr_employee_attrition_dashboard.jpeg)
-
 ## Project Objectives
 
 - Analyze overall employee attrition and calculate the attrition rate.
@@ -48,6 +44,10 @@ Using the IBM HR Analytics Employee Attrition dataset, I performed data cleaning
 3. **Data Transformation:** Created additional analytical categories, including age groups and monthly income bands.
 4. **Exploratory Data Analysis:** Analyzed employee attrition across different workforce attributes using Excel formulas and calculations.
 5. **Dashboard Development:** Created an interactive dashboard with KPI cards, charts, and filters to explore employee attrition patterns.
+
+## Dashboard Preview
+
+![Employee Attrition Dashboard](hr_employee_attrition_dashboard.jpeg)
 
 ## Key Insights
 
