@@ -8,7 +8,7 @@ Using the IBM HR Analytics Employee Attrition dataset, I performed data cleaning
 
 ## Dashboard Preview
 
-![Employee Attrition Dashboard](Dashboard/hr_employee_attrition_dashboard.jpeg)
+![Employee Attrition Dashboard](hr_employee_attrition_dashboard.jpeg)
 
 ## Project Objectives
 
